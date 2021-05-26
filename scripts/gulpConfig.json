@@ -1,0 +1,9 @@
+{
+  "concat": {
+    "js-bundle.js": [
+      "aScript.js",
+      "https://itl.pl/remoteScript.js",
+      "vendor/itl/anotherScript.js"
+    ]
+  }
+}
